@@ -1,0 +1,6 @@
+{
+    "name":"ASCIIBALL",
+    "type":"BALL",
+    "description":"Capture un ASCIIMON",
+    "rate":0.3
+}

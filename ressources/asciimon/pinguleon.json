@@ -1,0 +1,9 @@
+{
+    "name":"PINGULEON",
+    "type":"WATER",
+    "level":5,
+    "pv":40,
+    "abilities":[
+        "SPLASH"
+     ]
+}

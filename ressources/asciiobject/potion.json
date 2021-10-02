@@ -1,0 +1,6 @@
+{
+    "name":"POTION",
+    "type":"HEALING",
+    "description":"Soigne votre ASCIIMON de 20PV",
+    "healing":20
+}

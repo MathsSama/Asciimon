@@ -1,0 +1,9 @@
+{
+    "name":"WHYLORD",
+    "type":"WATER",
+    "level":3,
+    "pv":40,
+    "abilities":[
+        "CUT","SPLASH"
+     ]
+}

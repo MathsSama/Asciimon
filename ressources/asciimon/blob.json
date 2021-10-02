@@ -1,0 +1,9 @@
+{
+    "name":"Blob",
+    "type":"WATER",
+    "level":10,
+    "pv":20,
+    "abilities":[
+        "UWU"
+     ]
+}

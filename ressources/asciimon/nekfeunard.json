@@ -1,0 +1,11 @@
+{
+    "name":"NEKFEUNARD",
+    "type":"FIRE",
+    "level":5,
+    "pv":30,
+    "abilities":[
+        "FLAMECHE",
+        "COPY-CAT",
+        "TREMBLEMENT"
+     ]
+}

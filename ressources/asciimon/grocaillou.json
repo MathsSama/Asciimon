@@ -1,0 +1,9 @@
+{
+    "name":"GROCAILLOU",
+    "type":"EARTH",
+    "level":5,
+    "pv":40,
+    "abilities":[
+        "TREMBLEMENT"
+     ]
+}

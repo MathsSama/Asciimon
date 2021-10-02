@@ -1,0 +1,9 @@
+{
+    "name":"RATE-ATTAQUE",
+    "type":"NORMAL",
+    "level":1,
+    "pv":60,
+    "abilities":[
+        "CUT","FLAMECHE"
+     ]
+}

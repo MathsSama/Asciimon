@@ -1,0 +1,9 @@
+{
+    "name":"ASCIICRAM",
+    "type":"FIRE",
+    "level":2,
+    "pv":50,
+    "abilities":[
+        "FLAMECHE"
+     ]
+}
